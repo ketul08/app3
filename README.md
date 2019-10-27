@@ -1,0 +1,1 @@
+This is an app that uses basic js, css and adds typewriting effect to the page
